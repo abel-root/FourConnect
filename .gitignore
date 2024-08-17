@@ -1,2 +1,51 @@
+# Node.js
 node_modules/
-tests/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+
+# Logs
+logs
+*.log
+logs/*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environnement
+.env
+.env.test
+.env.production
+
+# Cache et sortie de builds
+dist/
+build/
+.cache/
+.tmp/
+out/
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# IDEs et éditeurs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Dépendances natives
+*.node
+
+# Caches de tests
+coverage/
+.nyc_output/
+
+# Fichiers de débogage
+debug/
