@@ -1,0 +1,17 @@
+{
+  "name": "fourconnect",
+  "version": "1.0.0",
+  "description": "This package allow to user to renforce his level of authentification in his system",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "KONAN Kouakou Abel",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
